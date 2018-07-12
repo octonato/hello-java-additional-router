@@ -1,0 +1,2 @@
+
+GET    /api/simple      com.example.hello.controllers.SimpleController.index()
